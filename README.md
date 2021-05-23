@@ -1,2 +1,2 @@
 # chatapp
-Chat app
+Video Chat App
